@@ -68,8 +68,8 @@ sudo apt install python3-flask python3-gpiozero python3-lgpio -y
 
 ### Bước 3: Clone mã nguồn và Khởi chạy
 ```bash
-git clone https://github.com/ngocdao102005/SIC_IoT2_Group2.git
-cd SIC_IoT2_Group2
+git clone https://github.com/ngocdao102005/SIC_IoT2_Group4.git
+cd SIC_IoT2_Group4
 python3 app.py
 ```
 Mở trình duyệt trên điện thoại hoặc máy tính cùng mạng Wi-Fi và truy cập `http://<IP-CUA-PI>:5000`.
