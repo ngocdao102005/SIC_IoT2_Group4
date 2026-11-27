@@ -92,7 +92,7 @@ def loop_sensors():
                 time.sleep(0.5)
 
             # 4. Đánh giá trạng thái cảnh báo
-            if state["fill_pct"] >= 90:
+            if state["fill_pct"] >= 85:
                 state["alert"] = "CẢNH BÁO: Thùng rác đã đầy! Vui lòng thu gom."
             elif state["temperature"] > 45:
                 state["alert"] = "NGUY HIỂM: Nhiệt độ trong thùng cao bất thường!"
