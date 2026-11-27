@@ -10,11 +10,11 @@
 | STT | Họ và Tên | Mã SV | Lớp | Vai trò & Nhiệm vụ chính |
 | :---: | :--- | :--- | :--- | :--- |
 | 1 | **Nguyễn Ngọc Đạo** | `DTC235200172` | CNTTK22M | **Nhóm trưởng** – Kiến trúc tổng thể, Edge Web Server Flask đa luồng, REST API, Quản lý GitHub |
-| 2 | **Phùng Văn Duy** | `DTC235200173` | CNTTK22M | Phần cứng – Cảm biến siêu âm HC-SR04 & thiết kế mạch bảo vệ đơn 4.7kΩ |
-| 3 | **Triệu Tiến Đạt** | `DTC235200174` | CNTTK22M | Phần cứng – Cảm biến chuyển động hồng ngoại PIR HW-416A (thấu kính Fresnel, chế độ L) |
-| 4 | **Hoàng Thị Biên** | `DTC235200175` | CNTTK22M | Nhúng & Driver – Linux Kernel IIO Driver cho DHT11 (`GPIO 4`) & cảm biến chạm WH-139 (`GPIO 27`) |
-| 5 | **Hà Thị Xuân** | `DTC235200176` | CNTTK22M | Frontend UI – Giao diện Web Dashboard Tailwind CSS Dark Mode & Fetch API 800ms |
-| 6 | **Lê Kim Tuyến** | `DTC235200177` | CNTTK22M | Kiểm thử & Tài liệu – Kiểm thử End-to-End, phân tích lỗi, Báo cáo & Slide |
+| 2 | **Phùng Văn Duy** | `DTC235200941` | CNTTK22M | Phần cứng – Cảm biến siêu âm HC-SR04 & thiết kế mạch bảo vệ đơn 4.7kΩ |
+| 3 | **Triệu Tiến Đạt** | `DTC235200184` | CNTTK22M | Phần cứng – Cảm biến chuyển động hồng ngoại PIR HW-416A (thấu kính Fresnel, chế độ L) |
+| 4 | **Hoàng Thị Biên** | `DTC235200960` | CNTTK22M | Nhúng & Driver – Linux Kernel IIO Driver cho DHT11 (`GPIO 4`) & cảm biến chạm WH-139 (`GPIO 27`) |
+| 5 | **Hà Thị Xuân** | `DTC235200986` | CNTTK22M | Frontend UI – Giao diện Web Dashboard Tailwind CSS Dark Mode & Fetch API 800ms |
+| 6 | **Lê Kim Tuyến** | `DTC235210062` | CNTTK22M | Kiểm thử & Tài liệu – Kiểm thử End-to-End, phân tích lỗi, Báo cáo & Slide |
 
 ---
 
