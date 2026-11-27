@@ -102,7 +102,7 @@ def loop_sensors():
         except Exception:
             pass
 
-        time.sleep(0.3)
+        time.sleep(0.1)
 
 
 def loop_dht():
